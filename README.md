@@ -1,3 +1,8 @@
+## artofwhere
+Some older artofwhere projects are still using this and will probably not move to something else without a complete rebuild.
+
+---
+
 ## Description:
 This is a materialize clockpicker designed as an addition to http://materializecss.com/
 
